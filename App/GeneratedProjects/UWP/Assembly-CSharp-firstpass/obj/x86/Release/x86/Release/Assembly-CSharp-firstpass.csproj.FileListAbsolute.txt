@@ -1,7 +1,6 @@
 C:\Users\MTC\Documents\Drums_AR\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.dll
 C:\Users\MTC\Documents\Drums_AR\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pdb
 C:\Users\MTC\Documents\Drums_AR\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pri
-C:\Users\MTC\Documents\Drums_AR\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
 C:\Users\MTC\Documents\Drums_AR\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.dll
 C:\Users\MTC\Documents\Drums_AR\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.pdb
 C:\Users\MTC\Documents\Drums_AR\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml

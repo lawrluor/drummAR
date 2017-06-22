@@ -5,10 +5,10 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-Drums_AR.sln: modified
+Drums_AR.sln: 79CE0277D0E22F65ABF5D1281B61473D
 Drums_AR\App.cs: 079226D5EA1B8C6AC94F160FCC1844F9
-Drums_AR\Drums_AR.csproj: 769D008E4BBB0888B109F0D20A108F24
-Drums_AR\Drums_AR.csproj.user: modified
+Drums_AR\Drums_AR.csproj: 85BADF5761141E3550F6986AB3E5D996
+Drums_AR\Drums_AR.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
 Drums_AR\Package.appxmanifest: 603CAEF5BFB0A730925E9AFF1511BAA1
 Drums_AR\project.json: 1D02BC64BAC0D041019673A1C4C51737
 Drums_AR\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
